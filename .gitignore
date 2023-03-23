@@ -1,0 +1,12 @@
+output
+.DS_Store
+
+# build artifacts
+Gemfile.lock
+jsxmathbook.html
+jsxmathbook.pdf
+jsxmathbook.pdfmarks
+jsxmathbook.epub
+jsxmathbook-kf8.epub
+jsxmathbook.mobi
+contributors.txt

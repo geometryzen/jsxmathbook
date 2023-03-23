@@ -1,2 +1,0 @@
-# jsxmathbook
-Book for JsxMath
